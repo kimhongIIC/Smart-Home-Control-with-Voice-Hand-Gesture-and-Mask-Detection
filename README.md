@@ -87,7 +87,7 @@ Update the file paths in the code if your directory structure differs.
 
 4. **Run the Program:**
    ```bash
-   python your_script_name.py
+   python home.py
 
 Choose how you want to control the system:
 
